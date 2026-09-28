@@ -1,0 +1,8 @@
+{
+  "name": "CivicFix V2 - Civic Issue Resolution Platform",
+  "description": "Smart civic issue reporting, verification, resolution and public transparency platform connecting citizens with municipal administration and field crews.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
